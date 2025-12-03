@@ -1,6 +1,6 @@
 {
-	"host": "ManucrackYTprro.aternos.me",
-	"port": "28153",
+	"host": "vulcanotest.play.hosting",
+	"port": "25565",
 	"username": "bombastic",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
